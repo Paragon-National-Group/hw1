@@ -6,6 +6,8 @@ Carefully read over the specifications of each function that is given in the hea
 _Due Date: Apr 5th 2022 6:00pm_
 
 # Tasks
+A skeleton is provided for each task, and your job is to fill it out. The parts where you need to fill it out is marked as "TODO".
+
 **print_welcome_message**
 
 This is the first task, which introduces the notion of print statements. This function prints out a sentence saying "Welcome to the start of the PNG CS track".
