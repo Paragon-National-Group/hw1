@@ -6,6 +6,7 @@
 # Due: April 5, 2022 6:00pm
 
 # This is the first programming assignment of the computer science track.
+# For each function, a skeleton is provided, where your job is to fill the *TODO* out.
 # The questions will cover the topics learned in the first lecture, which entailed
 # print statements, various data types, variables, basic operations, and conditionals.
 
