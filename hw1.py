@@ -3,7 +3,7 @@
 # HW 1
 
 # Assigned: March 29, 2022
-# Due: April 5, 2022 6:00pm
+# Due: April 4, 2022 11:59pm
 
 # This is the first programming assignment of the computer science track.
 # For each function, a skeleton is provided, where your job is to fill the *TODO* out.
