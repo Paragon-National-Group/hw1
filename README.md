@@ -3,7 +3,7 @@ This is the first programming assignment of the computer science track. The ques
 
 Carefully read over the specifications of each function that is given in the header description.
 
-_Due Date: Apr 5th 2022 6:00pm_
+_Due Date: Apr 4th 2022 11:59pm_
 
 # Tasks
 A skeleton is provided for each task, and your job is to fill it out. The parts where you need to fill it out is marked as "TODO".
