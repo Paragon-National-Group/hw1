@@ -120,7 +120,15 @@ This means your SSH key is properly set up (don’t worry about the “does not 
 If you are unable to set up your SSH key, please make sure to ask for help. You will not be able to complete the rest of the homework until you’ve set up your SSH key.
 
 # GitHub Classroom
-Now, that we have everything ready, it is time to begin your first assignment. Each assignment will have a unique link.
+Now, that we have everything ready, it is time to begin your first assignment. Each assignment will have a unique link. https://classroom.github.com/a/1Y1ksrPf is the link for this assignment. Once you "accept" the assignment, a pre-populated repository will be created for you with the assignment details. Once the repository is created, you will get a link that looks something like this:
+```
+https://github.com/Paragon-National-Group/hw1-john-hahn
+```
+You will need to clone this repository to your computer by running this line of code from the terminal (replace 'john-hahn' with your own name):
+```
+$ git clone git@github.com:Paragon-National-Group/hw1-john-hahn.git
+```
+Now you're ready to start the homework.
 
 # Tasks
 A skeleton is provided for each task, and your job is to fill it out. The parts where you need to fill it out is marked as "TODO".
